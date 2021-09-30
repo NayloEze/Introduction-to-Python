@@ -8,4 +8,4 @@ The aim is ensure that we (Kadatemy Students) clearly understand how to save not
 - Clicked on file and then scrolled down and clicked on "Save to GitHub"
 
 #Result
-Notebook was saved to my repository. 
+- Notebook was saved to my repository. 
